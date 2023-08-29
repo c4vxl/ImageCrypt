@@ -25,7 +25,7 @@ pip install Pillow
 
 3. Import the ImageCrypt class from the provided script:
 ```python
-from image_crypt import ImageCrypt
+from ImageCrypt import ImageCrypt
 ```
 
 4. Initialize an ImageCrypt instance with the path to your input image:
